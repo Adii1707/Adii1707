@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adii1707](https://github.com/Adii1707)
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **adityasinghghosh36@gmail.com**
 
