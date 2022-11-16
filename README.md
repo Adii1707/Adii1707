@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adityasinghghosh36@gmail.com**
 
-- ⚡ My hobbies **Playing Cricket | Watching movies | Coding**
+- ⚡ My hobbies **Cricket | movies | Coding | Fitness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
