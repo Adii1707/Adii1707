@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://Adii1707.github.io)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript | React**
 
 - 📫 How to reach me **adityasinghghosh36@gmail.com**
 
