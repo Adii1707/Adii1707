@@ -60,7 +60,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
 </div>
 
-</td><td valign="top" width="33%">
+</td></tr></table>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adii1707&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adii1707" /></p>
@@ -68,7 +68,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adii1707&show_icons=true&locale=en&theme=tokyonight" alt="adii1707" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adii1707&theme=tokyonight" alt="adii1707" /></p>
-  </td></tr></table>  
+    
 
 <br/>  
 
