@@ -1,4 +1,4 @@
-[![MasterHead](https://talktobusiness.com/wp-content/uploads/2022/04/What-Is-Web-Development.jpg)](https://Adii1707.io)
+[![MasterHead](https://talktobusiness.com/wp-content/uploads/2022/04/What-Is-Web-Development.jpg)](https://Adii1707.github.io)
 <h1 align="center">Hi 👋, I'm Aditya Singh Ghosh</h1>
 <h4 align="center">A passionate full stack web developer. 
   Strongly interested in obtaining a Software Developer position to work on enhancing the product experience. </h4>
