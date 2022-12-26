@@ -1,8 +1,8 @@
 [![MasterHead](https://talktobusiness.com/wp-content/uploads/2022/04/What-Is-Web-Development.jpg)](https://Adii1707.io)
 <h1 align="center">Hi 👋, I'm Aditya Singh Ghosh</h1>
-<h3 align="center">A passionate full stack web developer. 
-  Strongly interested in obtaining a Software Developer position to work on enhancing the product experience. </h3>
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c7dma71oloi74ofssfh1ktczd71doetachwoy5at&rid=giphy.gif&ct=g" alt="Coding" width = "400" align= "right" />
+<h4 align="center">A passionate full stack web developer. 
+  Strongly interested in obtaining a Software Developer position to work on enhancing the product experience. </h4>
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47c7dma71oloi74ofssfh1ktczd71doetachwoy5at&rid=giphy.gif&ct=g" alt="Coding" width = "400" align= "right"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii1707&label=Profile%20views&color=0e75b6&style=flat" alt="adii1707"  /> </p>
 
