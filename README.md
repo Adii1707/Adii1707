@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?w=740&t=st=1672249890~exp=1672250490~hmac=72e0b027a812b63777409852130c8a7e3118ef040d1fd6b73736ac91aef8b16e)](https://Adii1707.github.io)
+[![MasterHead](https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg?w=740&h=400&t=st=1672249890~exp=1672250490~hmac=72e0b027a812b63777409852130c8a7e3118ef040d1fd6b73736ac91aef8b16e)](https://Adii1707.github.io)
 <h1 align="center">Hi 👋, I'm Aditya Singh Ghosh</h1>
 <h4 align="center">A passionate full stack web developer. 
   Strongly interested in obtaining a Software Developer position to work on enhancing the product experience. </h4>
