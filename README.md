@@ -63,7 +63,7 @@
 </td></tr></table>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adii1707&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adii1707" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adii1707&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adii1707" /></p>
 
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adii1707&show_icons=true&locale=en&theme=tokyonight" alt="adii1707" /></p>
 
