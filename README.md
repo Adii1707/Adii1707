@@ -63,12 +63,11 @@
 </td></tr></table>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adii1707&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adii1707" /></p>
-<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adii1707&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="adii1707" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adii1707&show_icons=true&locale=en&theme=tokyonight" alt="adii1707" /></p>
-<br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adii1707&theme=tokyonight" alt="adii1707" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adii1707&show_icons=true&locale=en&theme=tokyonight" alt="adii1707" /></p>
+
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adii1707&theme=tokyonight" alt="adii1707" /></p>
     
 
 <br/>  
