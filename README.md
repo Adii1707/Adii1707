@@ -74,4 +74,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adii1707&theme=onedark)](https://github.com/Adii1707/github-profile-trophy)
   
+<br />
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adii1707&bg_color=17112c&color=d33cc9&line=943d8f&point=f6eeee&area=true&hide_border=true)](https://github.com/Adii1707/github-readme-activity-graph)
