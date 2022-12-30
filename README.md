@@ -35,7 +35,7 @@
 <br/>  
 
 <h3 align="left">Languages and Tools:</h3>
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="40%">
   
 ### Frontend  
 <div align="center" >  
