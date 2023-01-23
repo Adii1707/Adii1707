@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://Adii1707.github.io)
 
-- 💬 Ask me about **javascript | React**
+- 💬 Ask me about **Javascript | React**
 
 - 📫 How to reach me **adityasinghghosh36@gmail.com**
 
-- ⚡ My hobbies **Cricket | movies | Coding | Fitness**
+- ⚡ My hobbies **Cricket | Movies | Coding | Fitness**
 
 <br/>  
 
