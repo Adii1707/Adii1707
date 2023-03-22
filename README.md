@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://Adii1707.github.io)
  
-- 👨‍  Here is my CV [Resume](https://1drv.ms/b/s!AtmqcmBs9PAqeccCGmrk9jDzYGE?e=DlePSt)
+- 👨‍  Here is my [Resume](https://1drv.ms/b/s!AtmqcmBs9PAqeccCGmrk9jDzYGE?e=DlePSt)
 
 - 💬 Ask me about **Javascript | React**
 
