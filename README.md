@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii1707&label=Profile%20views&color=0e75b6&style=flat" alt="adii1707"  /> </p>
 
-- 🌱 I’m currently learning **Full Stack MERN Developement**
+- 🌱 I’m a **Full Stack Web Developer Intern**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://Adii1707.github.io)
  
