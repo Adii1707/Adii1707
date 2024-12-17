@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii1707&label=Profile%20views&color=0e75b6&style=flat" alt="adii1707"  /> </p>
 
-- 🌱 I’m a **Full Stack Web Developer Intern**
+- 🌱 I’m a **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://Adii1707.github.io)
  
 - 👨‍  Here is my [Resume](https://1drv.ms/b/s!AtmqcmBs9PAqeccCGmrk9jDzYGE?e=DlePSt)
 
-- 💬 Ask me about **Javascript | React**
+- 💬 Ask me about **Javascript | React | Angular**
 
 - 📫 How to reach me **adityasinghghosh36@gmail.com**
 
