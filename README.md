@@ -71,11 +71,16 @@
 
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adii1707&theme=tokyonight" alt="adii1707"/></p>
     
-
+[![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adii1707&theme=radical)](https://github.com/Adii1707/github-profile-trophy)
 <br/>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adii1707&theme=onedark)](https://github.com/Adii1707/github-profile-trophy)
   
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adii1707&bg_color=17112c&color=d33cc9&line=943d8f&point=f6eeee&area=true&hide_border=true)](https://github.com/Adii1707/github-readme-activity-graph)
+[![trophy](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adii1707&theme=radical&exclude=java)](https://github.com/Adii1707/github-profile-trophy)
+[![commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adii1707&theme=radical&exclude=java,html,typescript)]
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adii1707&bg_color=17112c&color=d33cc9&line=943d8f&point=f6eeee&area=true&hide_border=true)]
+(https://github.com/Adii1707/github-readme-activity-graph)
