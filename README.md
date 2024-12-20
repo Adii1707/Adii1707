@@ -74,11 +74,11 @@
 [![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adii1707&theme=radical)](https://github.com/Adii1707/github-profile-trophy)
 <br/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adii1707&theme=onedark)](https://github.com/Adii1707/github-profile-trophy)
-  
-<br />
-
 [![trophy](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adii1707&theme=radical&exclude=java)](https://github.com/Adii1707/github-profile-trophy)
 [![commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adii1707&theme=radical&exclude=java,html,typescript)]
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adii1707&theme=onedark)](https://github.com/Adii1707/github-profile-trophy)
+  
+<br />
 
