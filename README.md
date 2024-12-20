@@ -82,5 +82,3 @@
 [![commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adii1707&theme=radical&exclude=java,html,typescript)]
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Adii1707&bg_color=17112c&color=d33cc9&line=943d8f&point=f6eeee&area=true&hide_border=true)]
-(https://github.com/Adii1707/github-readme-activity-graph)
